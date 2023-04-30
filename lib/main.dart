@@ -31,6 +31,7 @@ class _QuizzlerState extends State<Quizzler> {
 
   String question = 'Question';
   List<Icon> scoreKeeper = [];
+  // Test fra ny PC
 
   @override
   Widget build(BuildContext context) {
